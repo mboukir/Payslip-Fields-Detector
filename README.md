@@ -37,7 +37,7 @@ Suivez les étapes suivantes :
 
 Output image :
 
-![demo](demos/1.jpg)
+![demo](demos/Image1.jpg)
 
 Output txt file :
 
